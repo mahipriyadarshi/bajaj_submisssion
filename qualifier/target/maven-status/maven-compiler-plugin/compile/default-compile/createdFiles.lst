@@ -1,0 +1,5 @@
+com\bajaj\qualifier\dto\SolutionRequest.class
+com\bajaj\qualifier\QualifierApplication.class
+com\bajaj\qualifier\AppRunner.class
+com\bajaj\qualifier\dto\RegistrationRequest.class
+com\bajaj\qualifier\dto\WebhookResponse.class
