@@ -5,7 +5,11 @@ import lombok.Data;
 
 @Data
 public class WebhookResponse {
-    @JsonProperty("https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA")
+
+    
+    @JsonProperty("webhook")
     private String webhookUrl;
+
+    @JsonProperty("accessToken")
     private String accessToken;
 }
