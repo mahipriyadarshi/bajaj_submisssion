@@ -12,7 +12,7 @@
     <name>qualifier</name>
     <description>Bajaj Finserv Health Java Qualifier</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>19</java.version>
     </properties>
     <dependencies>
         <dependency>
